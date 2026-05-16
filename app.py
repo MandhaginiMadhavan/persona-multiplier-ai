@@ -172,6 +172,10 @@ Important rules:
 - Keep the original facts accurate.
 - The metrics and technical wins belong to the recruiter's company, not the candidate.
 - Naturally reference the target person's background once.
+- Vary sentence openings across personas.
+- Change narrative structure between versions.
+- Do not reuse the same sequence of ideas.
+- Each persona should prioritize different aspects of the story.
 
 Persona styles:
 
